@@ -1,18 +1,12 @@
 <html>
 <head lang="en">
   <meta charset="utf-8">
-  <!-- BootstrapCDN -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-    crossorigin="anonymous"></script>
+
+  <!-- Compressed CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/css/foundation.min.css" integrity="sha256-ogmFxjqiTMnZhxCqVmcqTvjfe1Y/ec4WaRj/aQPvn+I=" crossorigin="anonymous">
+  <!-- Compressed JavaScript -->
+  <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/js/foundation.min.js" integrity="sha256-pRF3zifJRA9jXGv++b06qwtSqX1byFQOLjqa2PTEb2o=" crossorigin="anonymous"></script>
+
   <!-- Flexdatalist & jQuery-->
   <link href="jquery.flexdatalist.min.css" rel="stylesheet" type="text/css">
   <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
@@ -32,8 +26,15 @@
     }
   </style>
 
+<title>Glossary of Linguistic Terms</title>
 <body>
-  <div class="page-header">
+
+  <ul class="menu">
+    <li class="is-active"><a href="index.html">Home</a></li>
+    <li><a href="bib.html">Bibliography</a></li>
+    <li><a href="note.html">Note</a></li>
+  </ul>
+
     <h1>Glossary of Linguistic Terms <small>(only include terms)</small></h1>
   </div>
 
@@ -63,51 +64,42 @@
     });
   </script>
 
-  <!-- CARD -->
-  <div class="card text-center">
-    <div class="card-header">
-      NOTE
-    </div>
-    <div class="card-body">
-      <h5 class="card-title">収録用語数：1,000</h5>
-      <p class="card-text">分類に用いたカテゴリーは、以下の8つです（ほとんどの用語が「etc.」にあるかも…）。
-        <p>
-          <span class="badge badge-primary">Syntax</span>
-          <span class="badge badge-secondary">Morphology</span>
-          <span class="badge badge-success">Phonetics</span>
-          <span class="badge badge-danger">Phonology</span>
-          <span class="badge badge-warning">Semantics</span>
-          <span class="badge badge-info">Pragmatics</span>
-          <span class="badge badge-light">Grammar</span>
-          <span class="badge badge-dark">etc.</span>
-          <p>
-            用語は重複している場合もあります。参考にした文献やウェブサイト、用語の検索に使用した検索エンジンは、以下の通りです。
-            <ul class="list-unstyled">
-              <li><a href="https://www.google.com/webhp?hl=en" target="_blank">Google</a></li>
-              <li><a
-                  href="https://jglobal.jst.go.jp/search/anythings#%7B%22category%22%3A%220%22%2C%22keyword%22%3A%22%E8%A8%80%E8%AA%9E%E5%AD%A6%E7%B7%A8%22%7D"
-                  target="_blank">Introduction
-                  of Japanese Scientific Terms on Linguistics</a></li>
-              <li><a
-                  href="https://www.amazon.co.jp/%E8%A8%80%E8%AA%9E%E5%AD%A6%E5%A4%A7%E8%BE%9E%E5%85%B8%E3%80%88%E7%AC%AC6%E5%B7%BB%E3%80%89%E8%A1%93%E8%AA%9E%E7%B7%A8-%E4%BA%80%E4%BA%95-%E5%AD%9D/dp/4385152187/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&dchild=1&keywords=%E8%A8%80%E8%AA%9E%E5%AD%A6%E8%BE%9E%E5%85%B8+%E8%A1%93%E8%AA%9E&qid=1586933688&s=books&sr=1-1"
-                  target="_blank">言語学大辞典〈第6巻〉術語編</a></li>
-              <li><a
-                  href="https://www.amazon.co.jp/%E6%98%8E%E8%A7%A3%E8%A8%80%E8%AA%9E%E5%AD%A6%E8%BE%9E%E5%85%B8-%E6%96%8E%E8%97%A4-%E7%B4%94%E7%94%B7/dp/4385135789/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=32CIXF3MSTB47&dchild=1&keywords=%E6%98%8E%E8%A7%A3%E8%A8%80%E8%AA%9E%E5%AD%A6%E8%BE%9E%E5%85%B8&qid=1586933458&sprefix=%E6%98%8E%E8%A7%A3%E8%A8%80%E8%AA%9E%E5%AD%A6%2Caps%2C992&sr=8-1"
-                  target="_blank">明解言語学辞典</a></li>
-              <li><a
-                  href="https://www.amazon.co.jp/%E6%98%8E%E8%A7%A3%E6%96%B9%E8%A8%80%E5%AD%A6%E8%BE%9E%E5%85%B8-%E6%9C%A8%E9%83%A8-%E6%9A%A2%E5%AD%90/dp/4385135797/ref=pd_aw_sbs_14_4/355-3450877-7032019?_encoding=UTF8&pd_rd_i=4385135797&pd_rd_r=e4478fcc-ebd8-4980-af0f-35ea49244d82&pd_rd_w=Ff25E&pd_rd_wg=Qvy3s&pf_rd_p=bff3a3a6-0f6e-4187-bd60-25e75d4c1c8f&pf_rd_r=0X1A3JKV16YYFR9H3YGG&psc=1&refRID=0X1A3JKV16YYFR9H3YGG"
-                  target="_blank">明解方言学辞典</a></li>
-              <li><a href="https://www.krpia.co.kr/" target="_blank">한국의 지식콘텐츠</a></li>
-            </ul>
-          </p>
-          <button type="button" class="btn btn-secondary btn-lg" disabled>用語リストを見る（JSON形式）</button>
-          <a href="https://seo-mincheol.netlify.com/" class="btn btn-primary btn-lg active" role="button"
-            aria-pressed="true">作成者のブログへ</a>
-    </div>
-    <div class="card-footer text-muted">
-      最終更新日：2020年6月28日
-    </div>
+<div class="callout primary">
+  <h5>分類に用いたカテゴリーは、以下の8つです。</h5>
+  <p>Syntax, Morphology, Phonetics, Phonology, Semantics, Pragmatics, Grammar, etc.</p>
+</div>
+
+
+<ul class="tabs" data-active-collapse="true" data-tabs id="collapsing-tabs">
+  <li class="tabs-title is-active"><a href="#panel1c" aria-selected="true">Tab 1</a></li>
+  <li class="tabs-title"><a href="#panel2c">Tab 2</a></li>
+  <li class="tabs-title"><a href="#panel3c">Tab 3</a></li>
+  <li class="tabs-title"><a href="#panel4c">Tab 4</a></li>
+</ul>
+
+<div class="tabs-content" data-tabs-content="collapsing-tabs">
+  <div class="tabs-panel is-active" id="panel1c">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
   </div>
+  <div class="tabs-panel" id="panel2c">
+    <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+  </div>
+  <div class="tabs-panel" id="panel3c">
+    <p>Vivamus hendrerit arcu sed erat molestie vehicula. Sed auctor neque eu tellus rhoncus ut eleifend nibh porttitor. Ut in nulla enim. Phasellus molestie magna non est bibendum non venenatis nisl tempor. Suspendisse dictum feugiat nisl ut dapibus.</p>
+  </div>
+  <div class="tabs-panel" id="panel4c">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+  </div>
+</div>
+
+
+
+<footer class="py-4">
+  <div class="container text-center">
+      <p><small>Copyright &copy;2020 Seo Mincheol, All Rights Reserved.</small></p>
+  </div>
+</footer>
+
 </body>
 </head>
 </html>

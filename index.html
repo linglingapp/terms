@@ -28,8 +28,8 @@
 
     <!-- Flexdatalist & jQuery-->
     <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
-    <script src="jquery.flexdatalist.min.js"></script>
     <link href="jquery.flexdatalist.min.css" rel="stylesheet" type="text/css">
+    <script src="jquery.flexdatalist.min.js"></script>
     <style>
       body {
         font-family: 'Open Sans';
@@ -52,7 +52,7 @@
   <section class="header">
     <div style="border: 1px solid rgb(255, 255, 255); padding: 10px; height: auto; min-height: 100px; overflow: auto;">
     <h2 class="title" style="text-align: center;">Write a term in English, Japanese or Korean.</h2>
-    <input style="width:100%" type='text' placeholder='e.g. language change / 言語変化 / 언어 변화' data-relatives='#relative'
+    <input class="flexdatalist u-full-width" type='text' placeholder='e.g. language change / 言語変化 / 언어 변화' data-relatives='#relative'
       data-url='terms.json' data-search-in='["name","category","japanese", "korean"]'
       data-visible-properties='["name", "category", "japanese", "korean"]' data-group-by='category'
       data-selection-required='true' data-focus-first-result='true' data-min-length='1' data-value-property='id'
@@ -78,7 +78,7 @@
       </div>
       <br>
       <center>
-      <a class="button" href="bib.html">Bibliography</a>
+      <a class="button" href="https://www.notion.so/e39dce011a704614a9f67ee6d5dc0a2d">Bibliography</a>
       <a class="button button-primary" href="http://linglingapp.github.io/">BLOG</a>
       </center>
     </section>

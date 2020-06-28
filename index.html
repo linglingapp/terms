@@ -1,18 +1,13 @@
 <html>
 <head lang="en">
   <meta charset="utf-8">
-  <!-- BootstrapCDN -->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
-    integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
-    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
-    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
-    crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
-    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
-    crossorigin="anonymous"></script>
+ 
+  <!-- Compressed CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/css/foundation.min.css" integrity="sha256-ogmFxjqiTMnZhxCqVmcqTvjfe1Y/ec4WaRj/aQPvn+I=" crossorigin="anonymous">
+
+  <!-- Compressed JavaScript -->
+  <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/js/foundation.min.js" integrity="sha256-pRF3zifJRA9jXGv++b06qwtSqX1byFQOLjqa2PTEb2o=" crossorigin="anonymous"></script>
+
   <!-- Flexdatalist & jQuery-->
   <link href="jquery.flexdatalist.min.css" rel="stylesheet" type="text/css">
   <script src="https://code.jquery.com/jquery-1.12.1.min.js"></script>
@@ -69,17 +64,30 @@
       NOTE
     </div>
     <div class="card-body">
+      <li class="orbit-slide">
+        <div>
+          <h3 class="text-center">2: You can also throw some text in here!</h3>
+          <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde harum rem, beatae ipsa consectetur quisquam. Rerum ratione, delectus atque tempore sed, suscipit ullam, beatae distinctio cupiditate ipsam eligendi tempora expedita.</p>
+          <h3 class="text-center">This Orbit slider does not use animations.</h3>
+        </div>
+      </li>
       <h5 class="card-title">収録用語数：1,000</h5>
       <p class="card-text">分類に用いたカテゴリーは、以下の8つです（ほとんどの用語が「etc.」にあるかも…）。
         <p>
-          <span class="badge badge-primary">Syntax</span>
+          <!-- <span class="badge badge-primary">Syntax</span>
           <span class="badge badge-secondary">Morphology</span>
           <span class="badge badge-success">Phonetics</span>
           <span class="badge badge-danger">Phonology</span>
           <span class="badge badge-warning">Semantics</span>
           <span class="badge badge-info">Pragmatics</span>
           <span class="badge badge-light">Grammar</span>
-          <span class="badge badge-dark">etc.</span>
+          <span class="badge badge-dark">etc.</span> -->
+          <span class="label primary">Syntax</span>
+          <span class="label secondary">Morphology</span>
+          <span class="label success">Phonetics</span>
+          <span class="label alert">Phonology</span>
+          <span class="label warning">Semantics</span>
+          <span class="label purple">Semantics</span>
           <p>
             用語は重複している場合もあります。参考にした文献やウェブサイト、用語の検索に使用した検索エンジンは、以下の通りです。
             <ul class="list-unstyled">

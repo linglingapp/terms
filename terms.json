@@ -494,7 +494,7 @@
         "name": "Role and Reference Grammar(RRG)",
         "category": "THEORY",
         "japanese": "RRG",
-        "korean": "RRG",
+        "korean": "역할지시문법",
         "chinese": "null",
         "created": "2020-04-20 16:17:32",
         "updated": null
@@ -600,11 +600,111 @@
         "updated": null
     },
     {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
+        "id": "61",
+        "name": "identity",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "アイデンティティー",
+        "korean": "정체성",
+        "chinese": "null",
+        "created": "2020-06-30 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "62",
+        "name": "International Phonetic Alphabet(IPA)",
+        "category": "PHONETICS",
+        "japanese": "国際音声記号",
+        "korean": "국제 음성 기호",
+        "chinese": "null",
+        "created": "2020-06-30 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "63",
+        "name": "ambiguity",
+        "category": "SEMANTICS",
+        "japanese": "曖昧性",
+        "korean": "중의성",
+        "chinese": "null",
+        "created": "2020-06-30 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "64",
+        "name": "accent",
+        "category": "PHONETICS",
+        "japanese": "アクセント",
+        "korean": "악센트",
+        "chinese": "null",
+        "created": "2020-06-30 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "65",
+        "name": "vagueness",
+        "category": "SEMANTICS",
+        "japanese": "不明瞭",
+        "korean": "모호성",
+        "chinese": "null",
+        "created": "2020-06-30 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "66",
+        "name": "Aktionsart/lexical aspect",
+        "category": "SEMANTICS",
+        "japanese": "アクチオンスアルト/語彙的アスペクト",
+        "korean": "어휘상",
+        "chinese": "null",
+        "created": "2020-04-17 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "67",
+        "name": "stative",
+        "category": "SEMANTICS",
+        "japanese": "状態動詞",
+        "korean": "상태 동사",
+        "chinese": "null",
+        "created": "2020-04-17 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "68",
+        "name": "activity",
+        "category": "SEMANTICS",
+        "japanese": "活動動詞",
+        "korean": "활동 동사",
+        "chinese": "null",
+        "created": "2020-04-17 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "69",
+        "name": "achievement",
+        "category": "SEMANTICS",
+        "japanese": "到達動詞",
+        "korean": "달성/성취 동사",
+        "chinese": "null",
+        "created": "2020-04-17 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "70",
+        "name": "accomplishment",
+        "category": "SEMANTICS",
+        "japanese": "達成動詞",
+        "korean": "완성 동사",
+        "chinese": "null",
+        "created": "2020-04-17 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "71",
+        "name": "semelfactive",
+        "category": "SEMANTICS",
+        "japanese": "一回動詞",
+        "korean": "일회상/순간 동사",
         "chinese": "null",
         "created": "2020-04-17 16:17:32",
         "updated": null
@@ -612,107 +712,7 @@
     {
         "id": "",
         "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-04-17 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "",
-        "name": "",
-        "category": "",
+        "category": "SEMANTICS",
         "japanese": "",
         "korean": "",
         "chinese": "null",

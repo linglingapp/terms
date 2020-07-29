@@ -71,8 +71,8 @@
     },
     {
         "id": "8",
-        "name": "optimality theory",
-        "category": "THEORY",
+        "name": "Optimality Theory(OT)",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
         "japanese": "最適性理論",
         "korean": "최적성이론",
         "chinese": "null",
@@ -3072,7 +3072,7 @@
     {
         "id": "307",
         "name": "back formation",
-        "category": "GRAMMAR",
+        "category": "GRAMMAR/HISTORY",
         "japanese": "逆成",
         "korean": "역형성",
         "chinese": "null",
@@ -4430,13 +4430,213 @@
         "updated": null
     },
     {
-        "id": "4",
+        "id": "443",
+        "name": "auxiliary verb",
+        "category": "GRAMMAR",
+        "japanese": "助動詞",
+        "korean": "조동사",
+        "chinese": "null",
+        "created": "2020-07-26 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "444",
+        "name": "demonstrative",
+        "category": "GRAMMAR",
+        "japanese": "指示詞",
+        "korean": "지시사",
+        "chinese": "null",
+        "created": "2020-07-26 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "445",
+        "name": "article",
+        "category": "GRAMMAR",
+        "japanese": "冠詞",
+        "korean": "관사",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "446",
+        "name": "quantifier",
+        "category": "GRAMMAR",
+        "japanese": "数量詞/量化子/量化詞",
+        "korean": "수량사/양화사",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "447",
+        "name": "adverb",
+        "category": "GRAMMAR",
+        "japanese": "副詞",
+        "korean": "부사",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "448",
+        "name": "particle",
+        "category": "GRAMMAR",
+        "japanese": "小辞/不変化詞/助詞",
+        "korean": "소사/불변화사/조사",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "449",
+        "name": "conjunction",
+        "category": "GRAMMAR",
+        "japanese": "接続詞",
+        "korean": "접속사",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "450",
+        "name": "interjection",
+        "category": "GRAMMAR",
+        "japanese": "間投詞",
+        "korean": "감탄사/간투사",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "451",
+        "name": "content word",
+        "category": "GRAMMAR",
+        "japanese": "内容語",
+        "korean": "내용어",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "452",
+        "name": "function word",
+        "category": "GRAMMAR",
+        "japanese": "機能語",
+        "korean": "기능어",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "453",
+        "name": "context",
+        "category": "PRAGMATICS",
+        "japanese": "コンテクスト",
+        "korean": "맥락/문맥/배경/화맥",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "454",
+        "name": "minimal violation",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
+        "japanese": "最低限の違反",
+        "korean": "최소 위반",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "455",
+        "name": "Faithfulness Constraint",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
+        "japanese": "忠実性制約",
+        "korean": "충실성 제약",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "456",
+        "name": "Markedness Constraint",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
+        "japanese": "有標性制約",
+        "korean": "유표성 제약",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "457",
+        "name": "reanalysis",
+        "category": "HISTORY",
+        "japanese": "再分析",
+        "korean": "재분석",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "458",
+        "name": "metanalysis",
+        "category": "HISTORY",
+        "japanese": "異分析",
+        "korean": "이분석",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "459",
+        "name": "scope",
+        "category": "SEMANTICS",
+        "japanese": "作用域",
+        "korean": "영역/영향권/영역 범위",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "460",
+        "name": "operator",
+        "category": "SEMANTICS",
+        "japanese": "操作子",
+        "korean": "연산자/운용소",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "461",
+        "name": "reference point",
+        "category": "etc.",
+        "japanese": "参照点",
+        "korean": "참조점",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "462",
+        "name": "target domain/target",
+        "category": "etc.",
+        "japanese": "目標領域/標的",
+        "korean": "목표 영역",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "463",
         "name": "",
         "category": "",
         "japanese": "",
         "korean": "",
         "chinese": "null",
-        "created": "2020-07-26 16:17:32",
+        "created": "2020-07-28 16:17:32",
         "updated": null
     },
     {
@@ -4446,7 +4646,7 @@
         "japanese": "",
         "korean": "",
         "chinese": "null",
-        "created": "2020-07-26 16:17:32",
+        "created": "2020-07-28 16:17:32",
         "updated": null
     },
     {
@@ -4456,7 +4656,177 @@
         "japanese": "",
         "korean": "",
         "chinese": "null",
-        "created": "2020-07-26 16:17:32",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "4",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-07-28 16:17:32",
         "updated": null
     }
 ]

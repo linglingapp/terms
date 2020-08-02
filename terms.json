@@ -5008,5 +5008,305 @@
         "chinese": "null",
         "created": "2020-07-28 16:17:32",
         "updated": null
+    },
+    {
+        "id": "501",
+        "name": "lenition/weakening",
+        "category": "HISTORY",
+        "japanese": "弱化",
+        "korean": "약화",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "502",
+        "name": "fortition/strengthening",
+        "category": "HISTORY",
+        "japanese": "強化",
+        "korean": "강화",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "503",
+        "name": "sonority",
+        "category": "PHONETICS/PHONOLOGY",
+        "japanese": "聞こえ",
+        "korean": "공명도",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "504",
+        "name": "modifier",
+        "category": "GRAMMAR",
+        "japanese": "修飾語",
+        "korean": "수식어",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "505",
+        "name": "subjectivity",
+        "category": "etc.",
+        "japanese": "主観性/主体性",
+        "korean": "주관성/주체성",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "506",
+        "name": "subjectification",
+        "category": "etc.",
+        "japanese": "主観化/主体化",
+        "korean": "주관화/주체화",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "507",
+        "name": "subject",
+        "category": "GRAMMAR",
+        "japanese": "主語",
+        "korean": "주어",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "508",
+        "name": "topic",
+        "category": "PRAGMATICS",
+        "japanese": "主題",
+        "korean": "주제/화제",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "509",
+        "name": "comment",
+        "category": "PRAGMATICS",
+        "japanese": "解説",
+        "korean": "평언/해설",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "510",
+        "name": "predicate",
+        "category": "GRAMMAR",
+        "japanese": "述語",
+        "korean": "술어",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "511",
+        "name": "argument",
+        "category": "GRAMMAR",
+        "japanese": "項",
+        "korean": "논항",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "512",
+        "name": "sign language",
+        "category": "etc.",
+        "japanese": "手話",
+        "korean": "수화/수어",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "513",
+        "name": "anaphora",
+        "category": "GRAMMAR",
+        "japanese": "照応/前方照応",
+        "korean": "조응/대용/전방조응/순행조응/순행대용",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "514",
+        "name": "anaphor",
+        "category": "GRAMMAR",
+        "japanese": "照応詞",
+        "korean": "조응사/조응어",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "515",
+        "name": "antecedent",
+        "category": "GRAMMAR",
+        "japanese": "先行詞",
+        "korean": "선행사",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "516",
+        "name": "cataphora",
+        "category": "GRAMMAR",
+        "japanese": "後方照応",
+        "korean": "후방조응/역행조응/후행조응/역행대용",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "517",
+        "name": "exophora",
+        "category": "GRAMMAR",
+        "japanese": "外界照応/外部照応",
+        "korean": "상황조응",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "518",
+        "name": "endophora",
+        "category": "GRAMMAR",
+        "japanese": "内部照応/文脈照応",
+        "korean": "문맥조응",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "519",
+        "name": "null-pronoun",
+        "category": "GRAMMAR",
+        "japanese": "零代名詞",
+        "korean": "영대명사",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "520",
+        "name": "evidentiality",
+        "category": "GRAMMAR",
+        "japanese": "証拠性",
+        "korean": "증거성",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "521",
+        "name": "mirativity",
+        "category": "GRAMMAR",
+        "japanese": "意外性",
+        "korean": "의외성",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "522",
+        "name": "direct experience",
+        "category": "GRAMMAR",
+        "japanese": "直接経験",
+        "korean": "직접 경험",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "523",
+        "name": "indirect experience",
+        "category": "GRAMMAR",
+        "japanese": "関節経験",
+        "korean": "간접 경험",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
     }
 ]

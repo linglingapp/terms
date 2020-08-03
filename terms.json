@@ -5240,6 +5240,306 @@
         "updated": null
     },
     {
+        "id": "524",
+        "name": "focus",
+        "category": "PRAGMATICS",
+        "japanese": "焦点",
+        "korean": "초점",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "525",
+        "name": "information structure",
+        "category": "PRAGMATICS",
+        "japanese": "情報構造",
+        "korean": "정보 구조",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "526",
+        "name": "theory of territory of information",
+        "category": "THEORY",
+        "japanese": "情報のなわ張り理論",
+        "korean": "정보 세력권 이론",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "527",
+        "name": "Autosegmental Phonology",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
+        "japanese": "自律分節音韻論",
+        "korean": "자립분절 음운론",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "528",
+        "name": "evolutionary linguistics",
+        "category": "etc.",
+        "japanese": "進化言語学",
+        "korean": "진화 언어학",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "529",
+        "name": "protolanguage",
+        "category": "etc.",
+        "japanese": "原型言語",
+        "korean": "공통조어",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "530",
+        "name": "psycholinguistics",
+        "category": "etc.",
+        "japanese": "心理言語学",
+        "korean": "심리언어학",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "531",
+        "name": "anthropological linguistics",
+        "category": "etc.",
+        "japanese": "人類言語学",
+        "korean": "인류 언어학",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "532",
+        "name": "ethnolinguistics",
+        "category": "etc.",
+        "japanese": "民族言語学",
+        "korean": "민족언어학",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "533",
+        "name": "linguistic anthropology",
+        "category": "etc.",
+        "japanese": "言語人類学",
+        "korean": "언어 인류학",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "534",
+        "name": "descriptive linguistics",
+        "category": "etc.",
+        "japanese": "記述言語学",
+        "korean": "기술 언어학",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "535",
+        "name": "documentary linguistics",
+        "category": "etc.",
+        "japanese": "記録言語学",
+        "korean": "기록 언어학",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "536",
+        "name": "number",
+        "category": "GRAMMAR",
+        "japanese": "数",
+        "korean": "수",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "537",
+        "name": "singular",
+        "category": "GRAMMAR",
+        "japanese": "単数",
+        "korean": "단수",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "538",
+        "name": "plural",
+        "category": "GRAMMAR",
+        "japanese": "複数",
+        "korean": "복수",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "539",
+        "name": "dual",
+        "category": "GRAMMAR",
+        "japanese": "双数/両数",
+        "korean": "쌍수/양수",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "540",
+        "name": "verbal number/pluractionality",
+        "category": "GRAMMAR",
+        "japanese": "動詞数/複行為性",
+        "korean": "동사의 수/복수성",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
         "id": "5",
         "name": "",
         "category": "",

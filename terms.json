@@ -5580,13 +5580,263 @@
         "updated": null
     },
     {
-        "id": "5",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
+        "id": "558",
+        "name": "phonetic radical",
+        "category": "etc.",
+        "japanese": "声符/音符",
+        "korean": "성부",
         "chinese": "null",
         "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "559",
+        "name": "semantic radical",
+        "category": "etc.",
+        "japanese": "義符/意符",
+        "korean": "의부",
+        "chinese": "null",
+        "created": "2020-08-01 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "560",
+        "name": "determinative",
+        "category": "etc.",
+        "japanese": "限定符",
+        "korean": "한정부호",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "561",
+        "name": "elaborated code",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "精密コード",
+        "korean": "정교한 코드/정교한 어법",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "562",
+        "name": "restricted code",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "限定コード",
+        "korean": "제한된 코드/제한된 어법",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "563",
+        "name": "Accessibility Hierarchy",
+        "category": "GRAMMAR",
+        "japanese": "接近可能性の階層",
+        "korean": "접근 가능성 위계/접근성 위계/접근 위계",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "564",
+        "name": "clitic",
+        "category": "GRAMMAR",
+        "japanese": "接語",
+        "korean": "접어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "565",
+        "name": "enclitic",
+        "category": "GRAMMAR",
+        "japanese": "前接語/前倚辞",
+        "korean": "전접어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "566",
+        "name": "proclitic",
+        "category": "GRAMMAR",
+        "japanese": "後接語/後倚辞",
+        "korean": "후접어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "567",
+        "name": "affix",
+        "category": "GRAMMAR",
+        "japanese": "接辞",
+        "korean": "접사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "568",
+        "name": "base",
+        "category": "GRAMMAR",
+        "japanese": "語基",
+        "korean": "어기",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "569",
+        "name": "stem",
+        "category": "GRAMMAR",
+        "japanese": "語幹",
+        "korean": "어간",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "570",
+        "name": "root",
+        "category": "GRAMMAR",
+        "japanese": "語根",
+        "korean": "어근",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "571",
+        "name": "prefix",
+        "category": "GRAMMAR",
+        "japanese": "接頭辞",
+        "korean": "접두사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "572",
+        "name": "suffix",
+        "category": "GRAMMAR",
+        "japanese": "接尾辞",
+        "korean": "접미사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "573",
+        "name": "infix",
+        "category": "GRAMMAR",
+        "japanese": "接中辞",
+        "korean": "접요사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "574",
+        "name": "circumfix",
+        "category": "GRAMMAR",
+        "japanese": "接周辞/共接辞",
+        "korean": "접환사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "575",
+        "name": "transfix",
+        "category": "GRAMMAR",
+        "japanese": "貫通接辞",
+        "korean": "관통접사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "576",
+        "name": "interfix",
+        "category": "GRAMMAR",
+        "japanese": "接合辞/中間接辞",
+        "korean": "삽간사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "577",
+        "name": "contact language",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "接触言語",
+        "korean": "접촉 언어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "578",
+        "name": "pidgin",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "ピジン",
+        "korean": "피진/피진어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "579",
+        "name": "creole",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "クレオール",
+        "korean": "크리올/크리올어/크레올/크레올어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "580",
+        "name": "lexifier language",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "語彙提供言語",
+        "korean": "어휘 제공 언어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "581",
+        "name": "post-creole continuum",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "クレオール連続体",
+        "korean": "크리올어 연속체",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "582",
+        "name": "decreolization",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "脱クレオール化",
+        "korean": "탈크리올어화",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "583",
+        "name": "mixed language",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "混合言語",
+        "korean": "혼합 언어/혼합어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
         "updated": null
     },
     {
@@ -5596,7 +5846,7 @@
         "japanese": "",
         "korean": "",
         "chinese": "null",
-        "created": "2020-08-01 16:17:32",
+        "created": "2020-08-04 16:17:32",
         "updated": null
     },
     {
@@ -5606,7 +5856,157 @@
         "japanese": "",
         "korean": "",
         "chinese": "null",
-        "created": "2020-08-01 16:17:32",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "5",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
         "updated": null
     }
 ]

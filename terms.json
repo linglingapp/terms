@@ -5880,7 +5880,67 @@
         "updated": null
     },
     {
-        "id": "5",
+        "id": "588",
+        "name": "clause linkage/clause linking/clause combining",
+        "category": "GRAMMAR",
+        "japanese": "節連結",
+        "korean": "절 연결",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "589",
+        "name": "coordination",
+        "category": "GRAMMAR",
+        "japanese": "等位接続",
+        "korean": "등위접속",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "590",
+        "name": "subordination",
+        "category": "GRAMMAR",
+        "japanese": "従位接続",
+        "korean": "종속접속",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "591",
+        "name": "converb",
+        "category": "GRAMMAR",
+        "japanese": "副動詞",
+        "korean": "부동사",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "592",
+        "name": "creativity",
+        "category": "etc.",
+        "japanese": "創造性",
+        "korean": "창조성",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "593",
+        "name": "neologism",
+        "category": "etc.",
+        "japanese": "新語",
+        "korean": "신조어/신어",
+        "chinese": "null",
+        "created": "2020-08-04 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "594",
         "name": "",
         "category": "",
         "japanese": "",
@@ -5890,7 +5950,7 @@
         "updated": null
     },
     {
-        "id": "5",
+        "id": "595",
         "name": "",
         "category": "",
         "japanese": "",
@@ -5900,7 +5960,7 @@
         "updated": null
     },
     {
-        "id": "5",
+        "id": "596",
         "name": "",
         "category": "",
         "japanese": "",
@@ -5910,7 +5970,7 @@
         "updated": null
     },
     {
-        "id": "5",
+        "id": "597",
         "name": "",
         "category": "",
         "japanese": "",
@@ -5920,7 +5980,7 @@
         "updated": null
     },
     {
-        "id": "5",
+        "id": "598",
         "name": "",
         "category": "",
         "japanese": "",
@@ -5930,7 +5990,7 @@
         "updated": null
     },
     {
-        "id": "5",
+        "id": "599",
         "name": "",
         "category": "",
         "japanese": "",
@@ -5940,67 +6000,7 @@
         "updated": null
     },
     {
-        "id": "5",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-08-04 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "5",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-08-04 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "5",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-08-04 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "5",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-08-04 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "5",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-08-04 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "5",
-        "name": "",
-        "category": "",
-        "japanese": "",
-        "korean": "",
-        "chinese": "null",
-        "created": "2020-08-04 16:17:32",
-        "updated": null
-    },
-    {
-        "id": "5",
+        "id": "600",
         "name": "",
         "category": "",
         "japanese": "",

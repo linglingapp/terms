@@ -7008,5 +7008,275 @@
         "chinese": "null",
         "created": "2020-11-04 16:17:32",
         "updated": null
+    },
+    {
+        "id": "701",
+        "name": "situation",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "場面",
+        "korean": "상황",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "702",
+        "name": "speech situation",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "発話状況",
+        "korean": "발화 상황/말 상황/대화 상황",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "703",
+        "name": "speech event",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "発話事象",
+        "korean": "발화 사건/말 사례/언어 사건/언어 사례",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "704",
+        "name": "Hangeul",
+        "category": "etc.",
+        "japanese": "ハングル",
+        "korean": "한글",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "705",
+        "name": "comparative construction",
+        "category": "GRAMMAR",
+        "japanese": "比較構文",
+        "korean": "비교 구문",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "706",
+        "name": "comparative method",
+        "category": "HISTORY",
+        "japanese": "比較法",
+        "korean": "비교 방법",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "707",
+        "name": "sound correspondence",
+        "category": "HISTORY",
+        "japanese": "音対応",
+        "korean": "음운 대응/음 대응",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "708",
+        "name": "cognate",
+        "category": "HISTORY",
+        "japanese": "同源語",
+        "korean": "동원어",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "709",
+        "name": "non-canonical word order",
+        "category": "GRAMMAR",
+        "japanese": "非規範的語順",
+        "korean": "비규범 어순",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "710",
+        "name": "inversion",
+        "category": "GRAMMAR",
+        "japanese": "倒置",
+        "korean": "도치",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "711",
+        "name": "topicalization",
+        "category": "GRAMMAR",
+        "japanese": "主題化",
+        "korean": "주제화/화제화",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "712",
+        "name": "extraposition",
+        "category": "GRAMMAR",
+        "japanese": "外置",
+        "korean": "외치",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "713",
+        "name": "dislocation",
+        "category": "GRAMMAR",
+        "japanese": "転位",
+        "korean": "전위",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "714",
+        "name": "left dislocation",
+        "category": "GRAMMAR",
+        "japanese": "左方転位",
+        "korean": "좌향 전위/좌측 전위",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "715",
+        "name": "right dislocation",
+        "category": "GRAMMAR",
+        "japanese": "右方転位",
+        "korean": "우향 전위/우측 전위",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "716",
+        "name": "Subject-auxiliary inversion(SAI)",
+        "category": "GRAMMAR",
+        "japanese": "主語助動詞倒置",
+        "korean": "주어-조동사 도치",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "717",
+        "name": "non-verbal communication/nonverbal communication",
+        "category": "etc.",
+        "japanese": "非言語伝達",
+        "korean": "비언어 의사소통/비언어적 의사소통/비언어 커뮤니케이션",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "718",
+        "name": "Non-linear Phonology",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
+        "japanese": "非線形音韻論",
+        "korean": "비단선 음운론",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "719",
+        "name": "unaccusative",
+        "category": "GRAMMAR",
+        "japanese": "非対格",
+        "korean": "비대격",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "720",
+        "name": "negation",
+        "category": "GRAMMAR",
+        "japanese": "否定",
+        "korean": "부정",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "721",
+        "name": "polarity",
+        "category": "GRAMMAR",
+        "japanese": "極性",
+        "korean": "극성",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "722",
+        "name": "encyclopedic semantics",
+        "category": "SEMANTICS",
+        "japanese": "百科事典的意味論",
+        "korean": "백과사전적 의미론",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "723",
+        "name": "phonogram",
+        "category": "etc.",
+        "japanese": "表音文字",
+        "korean": "표음문자",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "724",
+        "name": "logogram",
+        "category": "etc.",
+        "japanese": "表語文字",
+        "korean": "표어문자",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "725",
+        "name": "ideogram",
+        "category": "etc.",
+        "japanese": "表意文字",
+        "korean": "표의문자",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "726",
+        "name": "standard language",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "標準語",
+        "korean": "표준어",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "727",
+        "name": "Philippine-type",
+        "category": "GRAMMAR",
+        "japanese": "フィリピン・タイプ",
+        "korean": "필리핀식",
+        "chinese": "null",
+        "created": "2020-11-11 16:17:32",
+        "updated": null
     }
 ]

@@ -1081,8 +1081,8 @@
     },
     {
         "id": "108",
-        "name": "underspecification theory",
-        "category": "PHONOLOGY",
+        "name": "Underspecification Theory",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
         "japanese": "不完全指定理論",
         "korean": "미명세이론/미명시이론",
         "chinese": "null",
@@ -7184,7 +7184,7 @@
         "name": "Non-linear Phonology",
         "category": "PHONETICS/PHONOLOGY/THEORY",
         "japanese": "非線形音韻論",
-        "korean": "비단선 음운론",
+        "korean": "비단선 음운론/비선형 음운론",
         "chinese": "null",
         "created": "2020-11-11 16:17:32",
         "updated": null
@@ -7277,6 +7277,136 @@
         "korean": "필리핀식",
         "chinese": "null",
         "created": "2020-11-11 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "728",
+        "name": "foreigner talk",
+        "category": "SOCIOLINGUISTICS",
+        "japanese": "フォリナートーク",
+        "korean": "외국인 말/외국인 말투/외국인 말씨",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "729",
+        "name": "compounding",
+        "category": "GRAMMAR",
+        "japanese": "複合",
+        "korean": "합성/복합",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "730",
+        "name": "foot",
+        "category": "PHONETICS/PHONOLOGY",
+        "japanese": "フット/音脚",
+        "korean": "음보",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "731",
+        "name": "prosodic category",
+        "category": "PHONETICS/PHONOLOGY",
+        "japanese": "韻律範疇",
+        "korean": "운율 범주",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "732",
+        "name": "profile",
+        "category": "SEMANTICS",
+        "japanese": "プロファイル",
+        "korean": "윤곽",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "733",
+        "name": "philology",
+        "category": "HISTORY/etc.",
+        "japanese": "文献学",
+        "korean": "문헌학",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "734",
+        "name": "written language",
+        "category": "etc.",
+        "japanese": "文語/書き言葉",
+        "korean": "문어/글말",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "735",
+        "name": "spoken language",
+        "category": "etc.",
+        "japanese": "話し言葉",
+        "korean": "구어/입말",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "736",
+        "name": "segmental phonology",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
+        "japanese": "分節音韻論",
+        "korean": "분절 음운론",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "737",
+        "name": "linear phonology",
+        "category": "PHONETICS/PHONOLOGY/THEORY",
+        "japanese": "線形音韻論/線状音韻論",
+        "korean": "단선 음운론/선형 음운론",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "738",
+        "name": "segmental",
+        "category": "PHONETICS/PHONOLOGY",
+        "japanese": "分節音",
+        "korean": "분절음",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "739",
+        "name": "suprasegmental",
+        "category": "PHONETICS/PHONOLOGY",
+        "japanese": "超分節音",
+        "korean": "초분절음",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "740",
+        "name": "types of sentences/sentence type",
+        "category": "GRAMMAR",
+        "japanese": "文のタイプ",
+        "korean": "문장 유형/문장의 종류/문형",
+        "chinese": "null",
+        "created": "2020-11-14 16:17:32",
         "updated": null
     }
 ]

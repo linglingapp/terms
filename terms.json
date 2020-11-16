@@ -391,7 +391,7 @@
     },
     {
         "id": "40",
-        "name": "grammaticalization",
+        "name": "grammaticalization/grammaticization",
         "category": "GRAMMAR",
         "japanese": "文法化",
         "korean": "문법화",
@@ -2521,7 +2521,7 @@
     },
     {
         "id": "252",
-        "name": "interrogative (sentence)",
+        "name": "interrogative sentence",
         "category": "GRAMMAR",
         "japanese": "疑問文",
         "korean": "의문문",
@@ -7407,6 +7407,206 @@
         "korean": "문장 유형/문장의 종류/문형",
         "chinese": "null",
         "created": "2020-11-14 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "741",
+        "name": "declarative sentence",
+        "category": "GRAMMAR",
+        "japanese": "平叙文",
+        "korean": "평서문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "742",
+        "name": "imperative sentence",
+        "category": "GRAMMAR",
+        "japanese": "命令文",
+        "korean": "명령문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "743",
+        "name": "exclamatory sentence",
+        "category": "GRAMMAR",
+        "japanese": "感嘆文",
+        "korean": "감탄문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "744",
+        "name": "optative sentence",
+        "category": "GRAMMAR",
+        "japanese": "祈願文",
+        "korean": "기원문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "745",
+        "name": "affirmative sentence",
+        "category": "GRAMMAR",
+        "japanese": "肯定文",
+        "korean": "긍정문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "746",
+        "name": "negative sentence",
+        "category": "GRAMMAR",
+        "japanese": "否定文",
+        "korean": "부정문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "747",
+        "name": "simple sentence",
+        "category": "GRAMMAR",
+        "japanese": "単文",
+        "korean": "단문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "748",
+        "name": "compound sentence",
+        "category": "GRAMMAR",
+        "japanese": "重文",
+        "korean": "중문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "749",
+        "name": "complex sentence",
+        "category": "GRAMMAR",
+        "japanese": "複文",
+        "korean": "복문",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "750",
+        "name": "grammar",
+        "category": "GRAMMAR",
+        "japanese": "文法",
+        "korean": "문법",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "751",
+        "name": "grammatical item",
+        "category": "GRAMMAR",
+        "japanese": "文法的な要素",
+        "korean": "문법 항목",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "752",
+        "name": "pragmatic strengthening",
+        "category": "GRAMMAR",
+        "japanese": "語用論的強化",
+        "korean": "화용적 강화",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "753",
+        "name": "coded meaning",
+        "category": "GRAMMAR",
+        "japanese": "コード化された意味",
+        "korean": "부호화된 의미",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "754",
+        "name": "grammatical relations",
+        "category": "GRAMMAR",
+        "japanese": "文法関係",
+        "korean": "문법 관계",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "755",
+        "name": "selectional restriction",
+        "category": "GRAMMAR",
+        "japanese": "選択制限",
+        "korean": "선택 제약/선택 제한",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "756",
+        "name": "phonological reduction",
+        "category": "GRAMMAR",
+        "japanese": "音韻的縮約",
+        "korean": "음운적 축소",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "757",
+        "name": "semantic bleaching",
+        "category": "GRAMMAR",
+        "japanese": "意味の漂白/意味の希薄化",
+        "korean": "의미 탈색/의미 표백화",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "758",
+        "name": "direct object",
+        "category": "GRAMMAR",
+        "japanese": "直接目的語",
+        "korean": "직접 목적어",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "759",
+        "name": "indirect object",
+        "category": "GRAMMAR",
+        "japanese": "間接目的語",
+        "korean": "간접 목적어",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "760",
+        "name": "oblique",
+        "category": "GRAMMAR",
+        "japanese": "斜格語",
+        "korean": "사격",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
         "updated": null
     }
 ]

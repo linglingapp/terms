@@ -7608,5 +7608,115 @@
         "chinese": "null",
         "created": "2020-11-15 16:17:32",
         "updated": null
+    },
+    {
+        "id": "761",
+        "name": "minimal semantic constituent",
+        "category": "SEMANTICS",
+        "japanese": "最小意味構成素",
+        "korean": "최소 의미구성소",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "762",
+        "name": "listeme",
+        "category": "SEMANTICS",
+        "japanese": "リスト素",
+        "korean": "일람소",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "763",
+        "name": "synecdoche",
+        "category": "SEMANTICS",
+        "japanese": "シネクドキー/提喩",
+        "korean": "제유",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "764",
+        "name": "metaphor",
+        "category": "SEMANTICS",
+        "japanese": "メタファー/隠喩",
+        "korean": "은유",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "765",
+        "name": "metonymy",
+        "category": "SEMANTICS",
+        "japanese": "メトニミー/換喩",
+        "korean": "환유",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "766",
+        "name": "simile",
+        "category": "SEMANTICS",
+        "japanese": "直喩",
+        "korean": "직유",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "767",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "768",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "769",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "770",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
+    },
+    {
+        "id": "771",
+        "name": "",
+        "category": "",
+        "japanese": "",
+        "korean": "",
+        "chinese": "null",
+        "created": "2020-11-15 16:17:32",
+        "updated": null
     }
 ]
